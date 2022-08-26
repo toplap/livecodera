@@ -18,13 +18,13 @@ _a growing list... // una lista creciente..._
 
 
 ### [Jessica A. Rodríguez](https://andamio.in/); 
-  - website: [andamio.in](https://andamio.in/)
-  - location/locación: Hamilton, Canada
-  - livecoding: estuary, cinecer0, tidalCycles, hydra, three.js, purescript, haskell
-  - socials: [Instragram](https://www.instagram.com/jessariannerod/);
-  - video: [Vimeo](https://vimeo.com/jessicaarianne);
-  — code/código: [GitHub: jac307](https://github.com/jac307);
-  - writings/ensayos: [Research](https://andamio.in/research);
+* website: [andamio.in](https://andamio.in/)
+* location/locación: Hamilton, Canada
+* livecoding: estuary, cinecer0, tidalCycles, hydra, three.js, purescript, haskell
+* socials: [Instragram](https://www.instagram.com/jessariannerod/);
+* video: [Vimeo](https://vimeo.com/jessicaarianne);
+* code/código: [GitHub: jac307](https://github.com/jac307);
+* writings/ensayos: [Research](https://andamio.in/research);
  
   
 ### [Marianne Teixido](https://marianneteixido.github.io/); 
