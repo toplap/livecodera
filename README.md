@@ -2,8 +2,9 @@
 
 ## global live coding women collective / colectiva global de fémeninas live coderas  ♫•*¨*•.¸¸♪
 
-━━━ ★ (info web)[https://livecodera.glitch.me]
-━━━━ ☆ (twitter)[https://twitter.com/livecodera]
+━━━ ★ [info web](https://livecodera.glitch.me)
+
+━━━━ ☆ [twitter](https://twitter.com/livecodera)
 
 
 _a growing list... // una lista creciente..._
