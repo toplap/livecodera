@@ -11,6 +11,17 @@ _a growing list... // una lista creciente..._
 
 
 
+### [Malísima](https://malisima.es); 
+* website: [title/título](https://malisima.es)
+* location/locación: Andorra La Vella, Skipton, Jerez de La Frontera
+* livecoding: Sonic Pi, learning PureData, struggling with TidalCycles
+* socials: ; [Instagram](http://instagram.com/malisimapc);
+* audio: [SoundCloud](http://soundcloud.com);
+* video: [MALÍSIMA LIVE](http://malisimalive.me);
+* writings/ensayos: [Vocal Media](https://vocal.media/authors/malisima);
+* miscellaneous: [title/título](link);
+
+
 ### [Joana Chicau](https://joanachicau.com/);
 * website: [link](https://joanachicau.com/backstage.html)
 * location: Portugal, London UK
