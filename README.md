@@ -4,8 +4,9 @@
 
 ━━━ ★ [info web](https://livecodera.glitch.me)
 
-━━━━ ☆ [twitter](https://twitter.com/livecodera)
+---- [peertube channel](https://tube.systerserver.net/a/livecodera_admin/video-channels)
 
+---- [youtube channel](https://www.youtube.com/results?search_query=livecodera)
 
 _a growing list... // una lista creciente..._
 
