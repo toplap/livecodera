@@ -2,11 +2,11 @@
 
 ## global live coding women collective / colectiva global de fémeninas live coderas  ♫•*¨*•.¸¸♪
 
-━━━ ★ [info web](https://livecodera.glitch.me)
+<!-- ━━━ ★ [info web](https://livecodera.glitch.me) -->
 
----- [peertube channel](https://tube.systerserver.net/a/livecodera_admin/video-channels)
+━━━ ★ [peertube channel](https://tube.systerserver.net/a/livecodera_admin/video-channels)
 
----- [youtube channel](https://www.youtube.com/results?search_query=livecodera)
+<!-- ━━━ ★ [youtube channel](https://www.youtube.com/results?search_query=livecodera) -->
 
 _a growing list... // una lista creciente..._
 
@@ -51,7 +51,7 @@ _a growing list... // una lista creciente..._
 * code/código: [Github](https://github.com/MarianneTeixido);
 
 
- ### [Sarah Imrisek](); 
+### [Sarah Imrisek](); 
 * location/locación: Toronto, Canada
 * livecoding: hydra, javascript, p5.js, three.js
 * socials: [Twitter](https://twitter.com/cymatiste); [Instagram](https://www.instagram.com/cymatiste/);
@@ -87,7 +87,6 @@ _a growing list... // una lista creciente..._
 * audio: [Colombia comun/título](https://drive.google.com/file/d/15RUZ1EOz7FrxgqPUXRYfa6-JS5bjnYM_/view?usp=sharing)
   ; [Concierto Audiovisual-Conjuro Sonoro-Mujeres Al Borde del Ruido] (https://www.youtube.com/watch?v=Z6ePJLII5Bs)
 * video: [“Biodiversidad y tecnodiversidad”](https://www.youtube.com/watch?v=SAHvvEM5MIQ&list=PLMBIpibV-wQKoXNk6RAJe5oKPkJCtmZks&index=3);
-
 
 
 ### [Flor de Fuego](https://flordefuego.github.io/); 
@@ -126,3 +125,9 @@ _a growing list... // una lista creciente..._
 * video: [@annaxambo on Vimeo](https://vimeo.com/annaxambo)
 * code/código: [@axambo on GitHub](https://github.com/axambo);
 * writings/ensayos: [annaxambo.me::publications](https://annaxambo.me/publications)
+
+### [Rachel Devorah Wood Rome](https://racheldevorah.studio/); 
+* website: [racheldevorah.studio](https://racheldevorah.studio/)
+* location/locación: Boston, U.S.A.
+* livecoding: mostly SuperCollider
+* socials: [@racheldevorah](https://www.instagram.com/racheldevorah/)
